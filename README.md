@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋 Hello 😃, I'm Thiago Alves, an IT governance professional fueled by a profound passion for technology and risk management. Currently exploring the fascinating world of cybersecurity. 🇧🇷 Embracing my Brazilian roots.
 
-<!--
-**talvestecnologia/talvestecnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Kali Linux, Pentesting, SOC, Cyber Defense, Blue Team and Red Team strategies
+- 💬 Ask me about IT governance, crafting risk mitigation strategies, and driving relentless continuous improvement in the digital landscape.
+- ⚡ Fun fact: just like the layers of security in IT governance, my coffee preferences are also in layers.
 
-Here are some ideas to get you started:
+ ##
+ 
+<div> 
+  <a href = "mailto:talvestecnologia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-tecnologia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+ 
+<div> 
+  
+<img src="https://tryhackme-badges.s3.amazonaws.com/MordusMors.png" alt="TryHackMe">
+
+</div>
